@@ -1,4 +1,4 @@
-package xyz.meistertobias.client;
+package xyz.meistertobias.rfc.client;
 
 import xyz.meistertobias.rfc.*;
 
